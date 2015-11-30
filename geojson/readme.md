@@ -8,3 +8,6 @@ These are geojson conversions of the GPX and KML Data.
 [View Class B on Map via Github](https://github.com/bigfootdata/sighting-data/blob/master/geojson/bfro_class_b.geojson)
 
 [View Class C on Map via Github](https://github.com/bigfootdata/sighting-data/blob/master/geojson/bfro_class_c.geojson)
+
+
+NOTE: The **bigfootdata** prefixed version have been cleaned and the descriptions chopped up to provide more granularity in the properties
