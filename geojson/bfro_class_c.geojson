@@ -1,0 +1,275 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bigfoot Report Class C 1880-1980's",
+                "desc": "Report 444: Family sightings over 100 years in Fayette and Fulton Counties\nClass C, Fayette County\n\nhttp://www.bfro.net/GDB/show_report.asp?id=444",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5422,
+                    33.4996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bigfoot Report Class C 1975",
+                "desc": "Report 1830: Two separate sighting reports of a creature\nClass C, Blount County\n\nhttp://www.bfro.net/GDB/show_report.asp?id=1830",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.68,
+                    34.1288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bigfoot Report Class C 1980",
+                "desc": "Report 2806: The \"Big Muddy Monster\" flap of Murphysboro\nClass C, Jackson County\n\nhttp://www.bfro.net/GDB/show_report.asp?id=2806",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.3595,
+                    37.745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bigfoot Report Class C 1980",
+                "desc": "Report 1208: Vocalizing, smelly animal circles cabin\nClass C, Cascade County\n\nhttp://www.bfro.net/GDB/show_report.asp?id=1208",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.9744,
+                    47.17833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bigfoot Report Class C 1980's",
+                "desc": "Report 4096: Sighting by truck driver near Felsenthal Wildlife Refuge\nClass C, Union County\n\nhttp://www.bfro.net/GDB/show_report.asp?id=4096",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.33472,
+                    33.1075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bigfoot Report Class C 1996",
+                "desc": "Report 3044: Second-hand report of creature looking in at woman through window\nClass C, La Crosse County\n\nhttp://www.bfro.net/GDB/show_report.asp?id=3044",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.33662,
+                    43.98694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bigfoot Report Class C Aug 1968",
+                "desc": "Report 3467: Witnesses describe 'huge' black creature that throws dirt at them near Chittyville.\nClass C, Williamson County\n\nhttp://www.bfro.net/GDB/show_report.asp?id=3467",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.0111,
+                    37.846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bigfoot Report Class C Aug 1983",
+                "desc": "Report 1387: Father and son hear heavy footsteps made by an apparent bipedal creature\nClass C, King County\n\nhttp://www.bfro.net/GDB/show_report.asp?id=1387",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.0456,
+                    47.5103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bigfoot Report Class C Feb 1981",
+                "desc": "Report 2779: A Local Writer Discusses Her Experiences Pursuing Local Reports and Legends\nClass C, San Diego County\n\nhttp://www.bfro.net/GDB/show_report.asp?id=2779",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.1564,
+                    32.71528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bigfoot Report Class C Jul 1989",
+                "desc": "Report 1649: Witnesses hear two powerful vocalizations near their property on the Flathead Reservation\nClass C, Missoula County\n\nhttp://www.bfro.net/GDB/show_report.asp?id=1649",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.0906,
+                    47.03222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bigfoot Report Class C Jul 2000",
+                "desc": "Report 175: Campers encounter large animal near Cle Elum\nClass C, Kittitas County\n\nhttp://www.bfro.net/GDB/show_report.asp?id=175",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.0415,
+                    47.47745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bigfoot Report Class C Jun 1973",
+                "desc": "Report 3472: Series of three incidents describing a human sized creature near edge of Edwardsville.\nClass C, Madison County\n\nhttp://www.bfro.net/GDB/show_report.asp?id=3472",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.918,
+                    38.809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bigfoot Report Class C Mar 1999",
+                "desc": "Report 945: Creature with red glowing eyes seen\nClass C, Jefferson County\n\nhttp://www.bfro.net/GDB/show_report.asp?id=945",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.2933,
+                    47.57778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bigfoot Report Class C Nov 1995",
+                "desc": "Report 4159: Campers hear unusual grunting sound from behind tent\nClass C, Trinity County\n\nhttp://www.bfro.net/GDB/show_report.asp?id=4159",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.96611,
+                    31.22333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bigfoot Report Class C Oct 1984",
+                "desc": "Report 1700: Witnesses hear unusual screams while hunting note local Indian stories regarding Bigfoot\nClass C, Roosevelt County\n\nhttp://www.bfro.net/GDB/show_report.asp?id=1700",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.8642,
+                    48.03278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bigfoot Report Class C Sept 1972",
+                "desc": "Report 3471: Beige upright creature seen at a distance of 1000 yards near Kell.\nClass C, Marion County\n\nhttp://www.bfro.net/GDB/show_report.asp?id=3471",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.9094,
+                    38.4975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bigfoot Report Class C Sept 1980",
+                "desc": "Report 4156: Loud, high-pitched, close-range screams directed at bowhunters\nClass C, Rusk County\n\nhttp://www.bfro.net/GDB/show_report.asp?id=4156",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.89986,
+                    31.87791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bigfoot Report Class C Since 1996",
+                "desc": "Report 483: Multiple witnesses describe multiple encounters\nClass C, St. Clair County\n\nhttp://www.bfro.net/GDB/show_report.asp?id=483",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.17965,
+                    33.94175
+                ]
+            }
+        }
+    ]
+}
